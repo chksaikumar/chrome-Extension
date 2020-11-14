@@ -1,0 +1,25 @@
+        html, body {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 14px;
+            width: 200px;
+        }
+        #temp {
+            font-family: 'Menlo', monospace;
+            font-size: 30px;
+            font-weight: 400;
+            margin: 0;
+            color: #1879bd;
+            display: inline-block;
+        }
+        .modal-header {
+            align-items: center;
+            border-bottom: 0.5px solid #dadada;
+            margin-bottom: 5px;
+            padding: 0px 22px; 
+        }
+        .modal-header p {
+        	margin: 5px auto;
+        }
+        .modal-content {
+            padding: 0 22px;
+        }
